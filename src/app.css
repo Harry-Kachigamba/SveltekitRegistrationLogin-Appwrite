@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.Button {
+    background-color: blue;
+    color: white;
+    padding: 1em;
+    border: none;
+    border-radius: 0.3em;
+}
+
+form {
+    background-color: aliceblue;
+    color: black;
+    width: 50em;
+    margin-top: 10em;
+    margin-left: 20em;
+    padding: 2em;
+}
+
+form div input {
+    padding: 0.5em;
+    margin-right: 0.5em;
+}
+
+form div button {
+    padding: 0.5em;
+    margin-right: 0.5em;
+}
